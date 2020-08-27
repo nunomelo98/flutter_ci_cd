@@ -4,13 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application With configuration 
+to deploy and build like a Android Apps in Appcenter for debug Apk
 
-A few resources to get you started if this is your first Flutter project:
+https://build.appcenter.ms/v0.1/apps/2a2db850-7cf3-4549-8825-50362d10aa8a/branches/ci_cd_Android/badge
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
